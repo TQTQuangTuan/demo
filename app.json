@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Zoom",
+    "packageId": "us.zoom.videomeetings",
+    "url": "https://storage.googleapis.com/zmooth/zoom-cloud-meetings-5-4-7-946.apk",
+    "versionName": "5.4.7.946",
+    "versionCode": 54007
+  },
+  {
+    "name": "Edge",
+    "packageId": "com.microsoft.emmx",
+    "url": "https://storage.googleapis.com/zmooth/Microsoft%20Edge%20Web%20Browser_v45.11.4.5118_apkpure.com.apk",
+    "versionName": "45.11.4.5118",
+    "versionCode": 5118004
+  },
+  {
+    "name": "Dr.Web",
+    "packageId": "com.drweb.pro.market",
+    "url": "https://storage.googleapis.com/zmooth/drweb-12.6.6-ss-android.apk",
+    "versionName": "12.6.6",
+    "versionCode": 19076
+  }
+]
